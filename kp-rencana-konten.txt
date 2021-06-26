@@ -5,3 +5,4 @@ rencana konten kp
 - angular
 - mysql
 - tutorial
+- sql server
