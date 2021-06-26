@@ -7,3 +7,4 @@ rencana konten kp
 - tutorial
   * ebook
 - sql server
+  * table
