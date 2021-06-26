@@ -2,9 +2,9 @@ rencana konten kp
 - ionic
   * firebase
   * supabase
-- angular
+- laravel
 - mysql
 - tutorial
-  * video
+  * ebook
 - sql server
   * table
