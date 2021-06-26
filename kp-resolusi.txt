@@ -1,4 +1,4 @@
 kp resolusi
 - konten 1x per minggu
-- platform untuk web/mobile app
 - konten program praktis
+- platform untuk web/mobile/desktop app
